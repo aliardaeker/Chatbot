@@ -1,6 +1,4 @@
 Ali Arda Eker
-CS 342 Design Patterns 
-Programming Assignment 2
 10/21/2016
 
 	Program simulates 3 chat bots who can talk with the user as a real humans 
